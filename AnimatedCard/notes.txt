@@ -1,0 +1,62 @@
+
+--aprendido--
+
+clip paths:
+recortan del background, clipean una imagen o background recortando algo,
+se pueden lograr varias formas.
+Usado en el numero superior derecho de cada tarjeta animada. (El numero 3).
+https://bennettfeely.com/clippy/
+
+
+variables:
+se ponen en el root en css,
+:root{}
+van con un --variable: valor;
+y se pueden acceder dentro del css desde cualquier lado.
+Es util para definir colores o valores que se usan en varios lados.
+Se acceden con var(--variable).
+
+Elegir el ultimo elemento:
+img:nth-of-type(1) {}
+Elegir el penultimo:
+img:nth-of-type(2){}
+
+Sass:
+tutorial https://www.youtube.com/watch?v=Zz6eOVaaelI&ab_channel=DevEd
+Learn Sass In 20 Minutes | Sass Crash Course Dev Ed yt
+Puse extension live sass compiler
+
+
+
+--links--
+
+animated cards tutorial:
+https://www.youtube.com/watch?v=YmyqlM13JUU&list=PLkvGMAmstqe5t9c3xu8gW_GpdrKAn6EHH&index=6&t=1159s&ab_channel=KevinPowell
+Animated card with HTML & CSS | Tutorial 
+Kevin Powell yt
+
+fotos gratis:
+https://pixabay.com/es/photos
+
+fotos de caras gratis:
+https://uifaces.co/
+
+armar clip paths:
+https://bennettfeely.com/clippy/
+
+Sass tutorial:
+tutorial https://www.youtube.com/watch?v=Zz6eOVaaelI&ab_channel=DevEd
+Learn Sass In 20 Minutes | Sass Crash Course 
+Dev Ed yt
+
+
+--cosas a buscar--
+sass
+em y rem
+position absolute
+google fonts
+evernote
+variables css
+display: grid
+transitions
+animations
